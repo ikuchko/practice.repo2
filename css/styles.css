@@ -5,3 +5,9 @@ h4 {
   font-style: oblique;
   font-weight: bold;
 }
+strong {
+  color: red;
+}
+em {
+  color: red;
+}
