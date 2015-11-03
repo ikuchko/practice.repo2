@@ -11,3 +11,8 @@ strong {
 em {
   color: red;
 }
+.box-class {
+  border: 2px solid blue;
+  padding: 4px;
+  margin: 8px;
+}
