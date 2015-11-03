@@ -16,3 +16,7 @@ em {
   padding: 4px;
   margin: 8px;
 }
+.images {
+  columns: 300px;
+>>>>>>> CascadingPractice_animaleShelter
+}
