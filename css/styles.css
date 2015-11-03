@@ -11,3 +11,6 @@ strong {
 em {
   color: red;
 }
+.images {
+  columns: 300px;
+}
