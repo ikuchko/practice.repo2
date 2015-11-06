@@ -16,7 +16,11 @@ em {
   padding: 4px;
   margin: 8px;
 }
-.images {
-  columns: 300px;
->>>>>>> CascadingPractice_animaleShelter
+.column {
+  width: 300px;
+  float: left;
+  margin: 5px;
+}
+.column img {
+  width: auto;
 }
