@@ -2,7 +2,6 @@ h1 {
   color: red;
 }
 h4 {
-  font-style: oblique;
   font-weight: bold;
 }
 strong {
@@ -13,18 +12,38 @@ em {
 }
 .box-class {
   border: 2px solid blue;
-  padding: 4px;
-  margin: 8px;
+  background-color: red;
 }
 .column {
   width: 300px;
   float: left;
-  margin: 5git bra
-  px;
+  margin: 5px;
+}
+.column1{
+  width: 70%;
+  float: left;
+  background-color: lightgreen;
+}
+.column2{
+  width: 30%;
+  float: right;
+  background-color: lightblue;
 }
 .column img {
   width: auto;
 }
-body {
-  style: background-color: grey;
+.header {
+  padding: 3px;
+  background-color: lightgrey;
+}
+.toolbar{
+  padding: 1px;
+  background-color: pink;
+}
+.mainpage{
+  margin: 0 2% 0 2%;
+}
+body{
+  background-color: grey;
+  margin: 0 0 0 0;
 }
